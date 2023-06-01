@@ -148,9 +148,9 @@ I would like to thank Sudipta Majumder & Microverse
 
 ## 📝 License <a name="LICENSE"></a>
 
-<p>"This project is"
+<p>This project is
 <a href="/microverseinc/readme-template/blob/master/LICENSE">MIT</a>
-"licensed."
+licensed.
   </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
