@@ -151,5 +151,4 @@ I would like to thank Sudipta Majumder & Microverse
 <a href="https://github.com/rinom013/Hello-Microverse-Project/blob/main/LICENSE">MIT</a>
 licensed.
   </p>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
